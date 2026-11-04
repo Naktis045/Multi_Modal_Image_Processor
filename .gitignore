@@ -1,0 +1,14 @@
+# Lock files
+poetry.lock
+
+# Configuration files
+config.py
+
+# Virtual environments
+venv/
+
+# Datasets
+data/
+Cycle_GAN/Restyle_dataset/
+DIV2K_train/
+DIV2K_test/
